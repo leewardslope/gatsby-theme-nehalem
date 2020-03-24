@@ -21,7 +21,6 @@ updated: 2020-03-24T05:44:01.489Z
 
 A virus is really just a hull around genetic material and a few proteins, arguably not even a living thing. It can only make more of itself by entering a living cell. Corona may spread via surfaces, but it's still uncertain how long it can survive on them. Its main way of spreading seems to be droplet infection when people *cough*, or *if you touch someone who's ill* and then your face, say rubbing your eyes or nose. And this simple reason made it a pandemic.
 
-![coronavirus graph](assets/coronavirus-graph.gif "coronavirus graph")
 
 The virus starts its journey here and then hitches a ride as a stowaway deeper into the body. Its destinations are "the intestines", "the spleen" or "the lungs", where it can have the most dramatic effect. 
 
@@ -35,7 +34,6 @@ The cell, ignorant of what's happening, executes the new instructions as always,
 
 The number of infected cells grows exponentially After about 10 days, millions of body cells are infected, and billions of viruses swarmed the lungs.
 
-![corona virus in lungs](assets/coronavirus-in-the-lungs.jpg "corona virus in lungs")
 
 ### The real problem starts now, confusion within our immune system
 
@@ -45,7 +43,7 @@ Cells have neither ears nor eyes. They communicate mostly via tiny information p
 
 Among these immune soldiers, Two kinds of cells in particular wreak havoc. First, "Neutrophils", which are great at killing stuff, including our cells. As they arrive in their thousands, they start pumping out enzymes that destroy as many friends as enemies. The other important type of cells that go into a frenzy are "Killer T-cells", which usually order infected cells to commit controlled suicide. Confused as they are, they start ordering healthy cells to kill themselves too. The more and more immune cells arrive the more damage they do and the more healthy lung tissue they kill. This might get so bad that it can cause permanent irreversible damage, that leads to lifelong disabilities.
 
-`A slight relief that our doctors can rely:` In most cases, the immune system slowly regains control. It kills the infected cells, intercepts the viruses trying to infect new ones and cleans up the battlefield. "Recovery begins".
+In most cases, the immune system slowly regains control. It kills the infected cells, intercepts the viruses trying to infect new ones and cleans up the battlefield. "Recovery begins".
 
 ### Why is COVID19 Deadly if we can recover our self 
 
