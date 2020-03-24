@@ -5,8 +5,8 @@ title: >-
 path: /covid19
 tags:
   - General
-metaImage: /assets/stop-corona.jpg
-featuredImage: ./assets/stop-corona
+metaImage: assets/stop-corona.jpg
+featuredImage: ./assets/stop-corona.jpg
 excerpt: >-
   In December 2019 the Chinese authorities notified the world that a virus was
   spreading through their communities. In the following months, it spread to
