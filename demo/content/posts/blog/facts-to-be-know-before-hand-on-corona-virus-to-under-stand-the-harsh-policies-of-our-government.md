@@ -20,13 +20,11 @@ updated: 2020-03-24T05:44:01.489Z
 
 # What actually happens when it infects a human and what should we all do?
 
-**`What is a virus?`** A virus is really just a hull around genetic material and a few proteins, arguably not even a living thing. It can only make more of itself by entering a living cell.
-
-**`How does the coronavirus spread?`** Corona may spread via surfaces, but it's still uncertain how long it can survive on them. Its main way of spreading seems to be **droplet infection** when people *cough*, or *if you touch someone who's ill* and then your face, say rubbing your eyes or nose. And this simple reason made it a pandemic.
+A virus is really just a hull around genetic material and a few proteins, arguably not even a living thing. It can only make more of itself by entering a living cell. Corona may spread via surfaces, but it's still uncertain how long it can survive on them. Its main way of spreading seems to be droplet infection when people *cough*, or *if you touch someone who's ill* and then your face, say rubbing your eyes or nose. And this simple reason made it a pandemic.
 
 ![coronavirus graph](assets/coronavirus-graph.gif "coronavirus graph")
 
-**`What are its primary target?`** The virus starts its journey here and then hitches a ride as a stowaway deeper into the body. Its destinations are **"the intestines"**, **"the spleen"** or **"the lungs"**, where it can have the most dramatic effect. 
+The virus starts its journey here and then hitches a ride as a stowaway deeper into the body. Its destinations are "the intestines", "the spleen" or "the lungs", where it can have the most dramatic effect. 
 
 > Even just a few coronaviruses can cause quite a dramatic situation.
 
