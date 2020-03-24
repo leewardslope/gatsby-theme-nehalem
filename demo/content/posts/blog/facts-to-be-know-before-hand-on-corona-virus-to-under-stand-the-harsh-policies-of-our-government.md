@@ -9,8 +9,7 @@ featuredImage: ./assets/stop-corona.jpg
 excerpt: >-
   In December 2019 the Chinese authorities notified the world that a virus was
   spreading through their communities. In the following months, it spread to
-  other countries, with cases doubling within days. This virus is the SARS-Related Coronavirus 2 that causes the disease
-  called Covid-19 
+  other countries, with cases doubling within days.
 created: 2020-03-24T05:44:01.356Z
 updated: 2020-03-24T05:44:01.489Z
 ---
