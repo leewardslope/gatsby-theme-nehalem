@@ -5,7 +5,7 @@ title: >-
 path: /covid19
 tags:
   - General
-metaImage: assets/stop-corona.webp
+metaImage: assets/stop-corona.jpg
 featuredImage: ./stop-corona
 excerpt: >-
   In December 2019 the Chinese authorities notified the world that a virus was
