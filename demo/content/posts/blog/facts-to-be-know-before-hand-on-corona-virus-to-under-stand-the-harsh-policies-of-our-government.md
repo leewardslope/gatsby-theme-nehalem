@@ -1,7 +1,6 @@
 ---
 title: >-
-  Facts to be know before hand on corona virus to under stand the harsh policies
-  of our government
+  Facts to know beforehand on coronavirus to understand the harsh policies of our government
 path: /covid19
 tags:
   - General
