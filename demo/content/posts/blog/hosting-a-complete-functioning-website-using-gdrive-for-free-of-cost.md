@@ -22,6 +22,8 @@ At the end of this blog, you will be able to create your own domain name and hos
 * <https://8w6zy6ghk3l0jcu5jb3xgq-on.drv.tw/www.akhilnaidu.tk/>
 * .<http://www.akhilnaidu.tk> (After configuring your domain using Freenom)
 
+![final blog](assets/final-blog.png "final blog")
+
 ## Small information for better understating of this.
 
 A simple definition of “hosting” for people who are new to this. Hosting means storing files/software in a place where everyone can access it. Those files can vary from simple code to complex algorithms or even a collection of pictures. As you already know Google is also proving us an option to store or share files personally and publicly, which in a way has the capability of hosting a website.
@@ -132,6 +134,8 @@ Check the website I created while writing this blog:
 
 * <http://www.akhilnaidu.tk>
 * <https://8w6zy6ghk3l0jcu5jb3xgq-on.drv.tw/www.akhilnaidu.tk/>
+
+![final blog](assets/final-blog.png "final blog")
 
 Now by replacing the index.html file with your desired html file, like your CV or Blog Post you can have your own personal portfolio or you can create your own personal website if you use some HTML Templates
 
