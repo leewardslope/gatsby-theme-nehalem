@@ -1,7 +1,7 @@
 ---
 title: >-
-  Winter is coming in Africa! Which might create another cycle of Coronavirus,
-  says Anthony fauci.
+  Winter is coming in Southern Hemisphere! Which might create another cycle of
+  Coronavirus, says Anthony fauci.
 path: /cycle-2-of-corona
 tags:
   - General
