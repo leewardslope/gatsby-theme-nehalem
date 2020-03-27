@@ -15,7 +15,7 @@ updated: 2020-03-27T04:07:50.307Z
 ---
 <!--StartFragment-->
 
-Did you know that you can use Google Drive to host a variety of different websites varying from basic websites to even complex javascript we apps? If not, let take advantage of Google Drive’s free storage to upload and publish any kind of static content to host a website or host your personal collections online.
+Did you know that you can use Google Drive to host a variety of different websites varying from basic websites to even complex javascript web apps? If not, let's take advantage of Google Drive’s free storage to upload and publish any kind of static content to host a website or host your personal collections online.
 
 At the end of this blog, you will be able to create your own domain name and host your website in it for free.
 
