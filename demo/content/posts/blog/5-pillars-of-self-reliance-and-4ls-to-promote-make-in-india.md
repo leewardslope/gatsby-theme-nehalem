@@ -25,11 +25,9 @@ The PM in his speech at 8 pm highlighted that India must realise its potential a
 * Demography
 * Intelligence-driven supply system
 
-
-
 An economic package of Rs 20 lakh crore, amounting to 10% of GDP, will help India realise its full potential, he said. 
 
-### **The package is to be factored on:**
+### **The package is to be factored on these 4L's:**
 
 * Land
 * Labour
@@ -37,7 +35,5 @@ An economic package of Rs 20 lakh crore, amounting to 10% of GDP, will help Indi
 * Law 
 
 These 4L's will promote Make In India even while rescuing MSMEs, farmers and others, he said.
-
-
 
 <!--EndFragment-->
