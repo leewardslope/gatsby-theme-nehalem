@@ -11,7 +11,7 @@ excerpt: In a speech to the nation tonight, Prime Minister Narendra Modi
 created: 2020-05-12T16:06:01.503Z
 updated: 2020-05-12T16:06:02.283Z
 ---
-<!--StartFragment-->
+### <!--StartFragment-->
 
 In a speech to the nation tonight, Prime Minister Narendra Modi enlightened us with the 5 Pillars and announced an economic package to tackle the downside of the corona-virus crisis.
 
@@ -21,13 +21,15 @@ The PM in his speech at 8 pm highlighted that India must realise its potential a
 
 * Economy with potential for quantum jump
 * Infrastructure
-* Tech-driven system
+* Technology-driven System
 * Demography
-* Intelligence-driven supply system
+* Intelligence-driven Supply system
 
-An economic package of Rs 20 lakh crore, amounting to 10% of GDP, will help India realise its full potential, he said. 
+An economic package of Rs 20 lakh crore, amounting to 10% of GDP, will help India realise its full potential, he said. The package is to be factored on these 4L's.
 
-### **The package is to be factored on these 4L's:**
+T
+
+### **4L's:**
 
 * Land
 * Labour
