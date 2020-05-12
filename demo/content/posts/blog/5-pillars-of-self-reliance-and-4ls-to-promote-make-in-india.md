@@ -17,19 +17,17 @@ In a speech to the nation tonight, Prime Minister Narendra Modi enlightened us w
 
 The PM in his speech at 8 pm highlighted that India must realise its potential as the lead player in the 21st century by focusing on its self-reliance.
 
-### **The 5 pillars for Self-Reliance:**
+### The 5 pillars for Self-Reliance:
 
 * Economy with potential for quantum jump
 * Infrastructure
 * Technology-driven System
-* Demography
+* Vibrant Demography
 * Intelligence-driven Supply system
 
 An economic package of Rs 20 lakh crore, amounting to 10% of GDP, will help India realise its full potential, he said. The package is to be factored on these 4L's.
 
-T
-
-### **4L's:**
+### 4L's for Make in India:
 
 * Land
 * Labour
