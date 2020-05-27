@@ -25,8 +25,6 @@ In this course, Vinita Devi will cover important topics of Mathematics. This is 
 
 [Algebra Schaum's](https://github.com/akhil-naidu/mathsoptional/raw/master/Reference-Books/Linear%20Algebra%204th%20Edition%20by%20Lipschutz%20Lipson.pdf)
 
-`Will be updated as we proceed to next chapter`
-
 ### Unacademy Lectures
 
 [Lecture 01](https://github.com/akhil-naidu/mathsoptional/raw/master/Paper01-Lectures/Lesson%201.pdf)\
