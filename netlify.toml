@@ -1,5 +1,9 @@
 [build]
   base    = "demo"
   command = "gatsby build"
-  publish = "demo/public/"
+  publish = "public/"
   
+[build.environment]
+  YARN_VERSION = "1.17.3"
+  YARN_FLAGS = "--production=false"
+  NODE_ENV = "production"
