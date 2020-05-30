@@ -5,12 +5,11 @@ tags:
   - Cyber Security
 metaImage: /assets/common-tools.jpg
 featuredImage: ./assets/common-tools.jpg
-excerpt: >-
-  Now that we’ve learned the language of security professionals, it’s time to
-  familiarize ourselves with the tools of trade. We’re going to take a look at
-  some of the popular tools used by  security professionals.
+excerpt: Now that we’ve learned the language of security professionals, it’s
+  time to familiarize ourselves with the tools of trade. We’re going to take a
+  look at some of the popular tools used by  security professionals.
 created: 2019-12-04T02:01:40.927Z
-updated: 2019-12-04T02:01:41.015Z
+updated: 2020-01-14T02:01:41.015Z
 ---
 Now that we’ve learned the [language of security professionals](https://blog.lewardslope.com/common-terms), it’s time to familiarize ourselves with the tools of trade. We’re going to take a look at some of the popular tools used by  security professionals.
 
