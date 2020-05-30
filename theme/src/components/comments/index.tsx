@@ -1,33 +1,11 @@
-// import React, {FunctionComponent} from "react";
-// import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
+import React, {FunctionComponent} from "react";
 
-/**
- * Placeholder which is attached under every post. Can be shadowed to
- * quickly integrate comments (like commento, Disqus, ...).
- */
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
 
+const Comments: FunctionComponent = () => <></>;
 
- //const Comments: FunctionComponent = () => <></> 
-
-// export default Comments;
+export default Comments;
 
 
-import { Helmet } from "react-helmet";
-import React from "react"
 
-export default class Comments extends React.Component {
-
-    render() {
-        return (
-            <React.Fragment>
-                <div id="commento"/>
-                <Helmet>
-                    <script 
-                        defer 
-                        src="https://cdn.commento.io/js/commento.js"
-                        />
-                </Helmet>
-            </React.Fragment>
-        );
-    }
-}
