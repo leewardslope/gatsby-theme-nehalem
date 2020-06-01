@@ -46,33 +46,23 @@ This would range from the smallest that stars can be, meaning the smallest amoun
 
 ![cloud to star](assets/cloud-to-star.png "cloud to star")
 
-As we already know, any star will begin as a cloud of gas and dust at least a few light years across. In the earliest era of star formation, this material was almost exclusively hydrogen and helium, as this was what remained after the brief seventeen minutes of nucleosynthesis soon after the Big Bang. This matter collects due to gravity, pushing increasingly inward as it contracts, until things get so hot over a few million years that nuclear fusion eventually begins, establishing an equilibrium, and generating a yellow or red main sequence star that glows with all the energy released from the collisions happening inside.
+As we already know, any star will begin as a cloud of gas and dust at least a few light years across. In the earliest era of star formation, this material was almost exclusively hydrogen and helium, as this was what remained after the brief seventeen minutes of nucleosynthesis soon after the Big Bang. This matter collects due to gravity, pushing increasingly inward as it contracts, until things get so hot over a few million years that nuclear fusion eventually begins, establishing an equilibrium, and generating a **yellow or red main sequence star** that glows with all the energy released from the collisions happening inside.
 
-These fusion reactions begin with two protons fusing, followed by subsequent beta decay,
+> These fusion reactions begin with **two protons fusing**, followed by subsequent **beta decay**, to get a proton and a neutron, and we call this a Deuteron, which is a nucleus of heavy hydrogen. **Then Deuterons are involved in reactions that make Helium**, which has two protons and two neutrons. 
 
-to get a proton and a neutron, and we call this a deuteron, which is a nucleus of heavy
+![Fusion in core continues](assets/fusion-in-core.png "Fusion in core continues")
 
-hydrogen. Then deuterons are involved in reactions that make helium, which has two protons and two neutrons. Such a star will continue in this manner for billions of years, slowly fusing all of the hydrogen in its core into helium, and maintaining a relatively steady size, temperature, and luminosity as it does so, until almost all of the hydrogen is gone.
+Such a star will continue in this manner for billions of years, slowly fusing all of the hydrogen in its core into helium, and maintaining a relatively steady size, temperature, and luminosity as it does so, until almost all of the hydrogen is gone.
+
+![Hydrogen is less](assets/no-hydrogen.png "Hydrogen i.e., fuel is very less")
 
 At this point, things really begin to change. The core of the star will shrink and get hotter, which makes the remaining hydrogen burn even faster, and all of that extra energy being generated will radiate outwards and push the outer layers away from the core. As the outer layers expand, they cool, and thus become more and more red, and the star climbs up the red giant branch until we have a red giant star.
 
-The star can maintain this new status for a little while longer, around a billion years,
+![Red Giant](assets/red-giant.png "Core pushed away to form a red giant")
 
-but after almost all the hydrogen is gone, the core gets even smaller and even hotter.
+The star can maintain this new status for a little while longer, around a billion years, but after almost all the hydrogen is gone, the core gets even smaller and even hotter. At this stage, a phase called helium flash, things are so hot that the star is able to fuse these heavier helium nuclei into larger nuclei like carbon, and then oxygen, through something called the triple-alpha process, and this means that the star has a whole new source of fuel in all the helium it has been making for billions of years.
 
-At this stage, a phase called helium flash, things are so hot that the star is able to
-
-fuse these heavier helium nuclei into larger nuclei like carbon, and then oxygen, through
-
-something called the triple-alpha process, and this means that the star has a whole new
-
-source of fuel in all the helium it has been making for billions of years.
-
-The star begins pulsating as it runs through its final energy reserve, entering what we
-
-call the horizontal branch, and in this time it becomes smaller, hotter, and bluer, until
-
-at last much of the helium has been fused into larger nuclei.
+The star begins pulsating as it runs through its final energy reserve, entering what we call the horizontal branch, and in this time it becomes smaller, hotter, and bluer, until at last much of the helium has been fused into larger nuclei.
 
 Once the core is predominately carbon and oxygen, with just a shell of helium around it, and a shell of hydrogen around that, the star has very little material left to burn, so the core will collapse and the star enters the asymptotic giant branch. This means it will grow rapidly and become a giant star again, until the last bursts of energy eject the outer layer, pushing it away from the core and back into the interstellar medium, leaving only a tiny, very hot, bare core behind, about the size of Earth. This will gradually cool, as it has no more fuel to burn, not being hot enough to fuse carbon or oxygen nuclei, and it will contract further until we are left with a white dwarf star.
 
