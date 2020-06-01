@@ -3,8 +3,8 @@ title: A detailed guide on Stellar Evolutionon The Life of Stars
 path: /stellar-evolution
 tags:
   - General
-metaImage: assets/star-life-cycle.jpg
-featuredImage: ./assets/star-life-cycle.jpg
+metaImage: assets/different-paths.png
+featuredImage: ./assets/different-paths.png
 excerpt: The life cycle of any star, from birth to death, and all the stages in
   between, will span millions or even billions of years. This is why stars don’t
   seem to change at all, because a human lifetime is a snippet of a fraction of
@@ -34,15 +34,17 @@ So let’s go through the lifetime of a few different kinds of stars, so that we
 
 The path that will be followed by a particular star depends mainly on its mass, or how much gas collected and collapsed to form the star, because that material will serve as the star’s fuel. As we may remember from physics and chemistry, when nuclei collide with enough energy so as to overcome the electromagnetic repulsion between them, the strong nuclear force takes over, and they fuse, with a small fraction of their mass converting into huge amounts of pure energy, as dictated by **E equals MC squared.**
 
-![different paths according to their mass](assets/different-paths.png "Different paths according to their respective mass")
+![star formation](assets/star-formation.png "Star Formation")
 
 Therefore, only by colliding nuclei together and fusing them in its ultra-hot core can a star release enough outward energy to counter the effects of gravity relentlessly crushing inward. This means that the amount of matter that forms the star determines the amount of fuel, and through a variety of other factors, the lifetime and eventual fate of the star. Given that mass is the key factor here, let’s start with a low-mass star.
 
-## Low  Mass or Average Mass Star
+## Low Mass Star
 
 This would range from the smallest that stars can be, meaning the smallest amount of material that can sufficiently trigger nuclear fusion so as to qualify as a star, which is about thirteen Jupiter masses, to a star somewhere in the ballpark of our sun’s mass.
 
-![low mass star](assets/low-mass-star.png "Loss mass or Average mass star")
+![cloud contraction due to gravity](assets/cloud-contraction.png "cloud contraction due to gravity")
+
+![cloud to star](assets/cloud-to-star.png "cloud to star")
 
 As we already know, any star will begin as a cloud of gas and dust at least a few light years across. In the earliest era of star formation, this material was almost exclusively hydrogen and helium, as this was what remained after the brief seventeen minutes of nucleosynthesis soon after the Big Bang. This matter collects due to gravity, pushing increasingly inward as it contracts, until things get so hot over a few million years that nuclear fusion eventually begins, establishing an equilibrium, and generating a yellow or red main sequence star that glows with all the energy released from the collisions happening inside.
 
