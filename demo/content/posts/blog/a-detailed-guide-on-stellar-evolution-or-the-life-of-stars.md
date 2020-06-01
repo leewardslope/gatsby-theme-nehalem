@@ -192,11 +192,11 @@ A black hole, given its infinite density, warps spacetime so much that not even 
 
 As incredible as this may sound, this is how nature works, and black holes do indeed exist all over the universe, as the remnants of huge dead stars. Black holes are so fascinating that they will require a whole new post unto themselves, which I will get to in a next blog post.
 
-![1](assets/blackhole1.png "1")
+![1](assets/blackhole1.png "1") ![3](assets/blackhole3.png "3")
 
 ![2](assets/blackhole2.png "2")
 
-![3](assets/blackhole3.png "3")
+
 
 ## Review
 
