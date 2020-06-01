@@ -72,15 +72,35 @@ The star can maintain this new status for a little while longer, around a billio
 
 Once the core is predominately carbon and oxygen, with just a shell of helium around it, and a shell of hydrogen around that, the star has very little material left to burn, so the core will collapse and the star enters the asymptotic giant branch. This means it will grow rapidly and become a giant star again, until the last bursts of energy eject the outer layer, pushing it away from the core and back into the interstellar medium, leaving only a tiny, very hot, bare core behind, about the size of Earth. This will gradually cool, as it has no more fuel to burn, not being hot enough to fuse carbon or oxygen nuclei, and it will contract further until we are left with a white dwarf star.
 
-The ejected shell is called a planetary nebula, which is misleading, since it is not a planet and did not come from a planet, but the name originated from confusion upon its discovery, and it stuck. The material in a planetary nebula will then become available to join more gas particles to form yet another star.
+![white dward](assets/white-dwarf.png "White Dwarf")
+
+The ejected shell is called a **planetary nebula** and the material in a planetary nebula will then become available to join more gas particles to form yet another star.
+
+> which is misleading, since it is not a planet and did not come from a planet, but the name originated from confusion upon its discovery, and it stuck.
+
+![Planetrary Nebula](assets/planatary-nebula.png "Planetary Nebula")
 
 ## High Mass Star
 
-Now for a high-mass star, ones much more massive than our sun, things are quite different. Their demise will not be so quiet. Big stars go out with a bang. Things start out normally, with a gas cloud collecting under the influence of gravity. It is simply that this cloud will be much larger than those that form low-mass stars, so it will contain much more mass. More mass means more gravity, which means the force pushing inward is much stronger, and the star gets much hotter. A hotter temperature means faster fusion, which generates greater outward pressure to counteract the greater inward pull of gravity. This will result in a main-sequence star that is hot, big, bright, and blue. This is where things start to go differently from low-mass stars.
+Now for a high-mass star, ones much more massive than our sun, things are quite different. Their demise will not be so quiet. **Big stars go out with a bang**. Things start out normally, with a gas cloud collecting under the influence of gravity. It is simply that this cloud will be much larger than those that form low-mass stars, so it will contain much more mass. **More mass means more gravity, which means the force pushing inward is much stronger, and the star gets much hotter.** A hotter temperature means faster fusion, which generates greater outward pressure to counteract the greater inward pull of gravity. This will result in a main-sequence star that is hot, big, bright, and blue. This is where things start to go differently from low-mass stars.
 
-Whereas low-mass stars take billions of years to use up all their fuel, high-mass stars are much hotter and burn their fuel much faster. That means they use up all the hydrogen in their cores in around just a fleeting hundred million years, or even ten million if big enough. As the fuel starts running out, the core contracts and heats, producing more energy, so the star will swell up into a giant star, just like we saw for low-mass stars. But while the core of a high-mass star continues to compress, it gets much hotter than the core of a low-mass star, and it becomes able to fuse helium nuclei to form carbon, and then oxygen, and then neon, and then silicon, each heavier nucleus being relegated to a smaller and smaller region of the core that is hot enough to fuse it All the way at the center sits the heaviest element that can be fused within a star, iron.
+![High Mass Star](assets/high-mass.png "High Mass Star")
 
-As this occurs in these different layers, each performing a particular type of fusion until no fuel remains, the star is left with a core of iron nuclei that are so stable that further fusion can release no more energy. At this point, gravity wins the fight, and the star collapses within a single second, the outer layers bouncing off the core and triggering an explosion, thus ejecting all of the heavy nuclei the star has created, out into space. This awesome event, one of the most violent and energetic phenomena in the universe, is called a supernova.
+![Fater Fusion](assets/faster-fusion.png "More Mass -> Stronger Inward Push -> So More Hotter -> Which results in faster Fusion")
+
+Whereas low-mass stars take billions of years to use up all their fuel, **high-mass stars are much hotter and burn their fuel much faster.** That means they use up all the hydrogen in their cores in around just a fleeting hundred million years, or even ten million if big enough. As the fuel starts running out, the core contracts and heats, producing more energy, so the star will swell up into a giant star, just like we saw for low-mass stars. 
+
+![High mass Giant star](assets/giant-star.png "SImilar to that of the Low mass star, we can see a high mass giant star but formed in very less time compared to that of the low mass star.")
+
+But while the core of a high-mass star continues to compress, it gets much hotter than the core of a low-mass star, and it becomes able to fuse helium nuclei to form carbon, and then oxygen, and then neon, and then silicon, each heavier nucleus being relegated to a smaller and smaller region of the core that is hot enough to fuse it All the way at the center sits the heaviest element that can be fused within a star, iron.
+
+![iron as core](assets/iron-as-core.png "In this way Hign Mass star was able to form extra elements in the core.")
+
+![gravity-wins](assets/gravity-wins.png "Gravity Wins")
+
+As this occurs in these different layers, each performing a particular type of fusion until no fuel remains, the star is left with a core of iron nuclei that are so stable that further fusion can release no more energy. **At this point, gravity wins the fight, and the star collapses within a single second, the outer layers bouncing off the core and triggering an explosion, thus ejecting all of the heavy nuclei the star has created, out into space.** This awesome event, one of the most violent and energetic phenomena in the universe, is called a **supernova**.
+
+![supernova](assets/supernova.png "supernova")
 
 A supernova generates such an unbelievable burst of energy that in this brief moment, dozens of elements heavier than iron can also be synthesized. Nickel, copper, zinc, silver, gold, any element with an atomic number greater than twenty-six, is made either in a supernova, or a rare event like the collision of two neutron stars, or a neutron star and a black hole, which are objects we will discuss in a moment. That’s why these heavy elements are so rare compared to elements like carbon and oxygen, because stars can’t synthesize them the way they can synthesize all the elements up to iron throughout their long lives.
 
