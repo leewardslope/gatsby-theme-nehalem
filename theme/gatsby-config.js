@@ -35,7 +35,7 @@ module.exports = (themeOptions) => {
         },
         {
           name: 'About',
-          path: '/about'
+          path: '/author/akhil'
         },
       ],
       footerMenu: [
