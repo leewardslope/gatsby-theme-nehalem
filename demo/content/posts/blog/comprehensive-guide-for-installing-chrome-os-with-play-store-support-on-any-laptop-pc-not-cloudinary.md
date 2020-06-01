@@ -4,8 +4,8 @@ title: Comprehensive guide for Installing Chrome OS with Play Store Support on
 path: /comprehensive-guide-for-installing-chromeos-with-playstore-support-on-any-laptop
 tags:
   - The Internet
-metaImage: assets/chromeos.png
-featuredImage: ./assets/chromeos.png
+metaImage: assets/chromeos.webp
+featuredImage: ./assets/chromeos.webp
 excerpt: under construction
 created: 2020-05-31T10:40:32.414Z
 updated: 2020-05-31T10:40:32.501Z
