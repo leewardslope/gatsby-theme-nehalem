@@ -3,8 +3,8 @@ title: A detailed guide on stellar evolution or the life of starts
 path: /stellar-evolution
 tags:
   - General
-metaImage: assets/different-paths.png
-featuredImage: ./assets/different-paths.png
+metaImage: assets/different-paths.jpg
+featuredImage: ./assets/different-paths.jpg
 excerpt: The life cycle of any star, from birth to death, and all the stages in
   between, will span millions or even billions of years. This is why stars don’t
   seem to change at all, because a human lifetime is a snippet of a fraction of
