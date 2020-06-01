@@ -194,6 +194,6 @@ For now, let’s review what we just learned about the lifetime of a star. When 
 
 Then finally, when the star can no longer perform sufficient nuclear fusion so as to counter the effects of gravity, the star will collapse, leaving a white dwarf if it is of low mass, a neutron star if it is of intermediate mass, and a black hole if it is of especially high mass.
 
-![collapse of star](assets/stars-collapses.png "Collapse of the star and the final left over core dependes upon the remnent or core mass, chandrashekar limit. ")
+![collapse of star](assets/stars-collapses.png "Collapse of the star and the final left over core dependes upon the remnent or core mass, chandrashekar limit")
 
 As we mentioned, black holes are among the most fascinating objects in the universe, and they are a popular area of study amongst astronomers and theoretical physics alike, because there is so much that we still don’t understand about these strange creatures. Let’s move forward and learn a little more about black holes in the next post.
