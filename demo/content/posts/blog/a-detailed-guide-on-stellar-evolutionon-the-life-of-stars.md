@@ -18,37 +18,33 @@ I’m back again, but not like some random tech junkie - I’m back as a physics
 
 We’ve learned in pre school or college about what happened for the first billion years or so in the history of the universe, which leaves us with lots of stars and galaxies, and we are now equipped with the terminology needed to describe and categorize these stars.
 
-![terminology](assets/screenshot-2020-06-01-at-1.24.28-pm.png "Terminology required for further understnding.")
+![terminology](assets/new-terminology.png "Terminology required for further understnding.")
 
-But hold on, we still haven’t talked about all the other elements on the periodic table, we’ve only know about  Hydrogen (H) and Helium (He) so far, we got these from Big Bang Nucleosythesis. 
+But hold on, we still haven’t talked about all the other elements on the periodic table, we’ve only know about  Hydrogen (H) and Helium (He) so far, we got these from **Big Bang Nucleosythesis.** 
 
 * So where did the rest come from?
 * And what about all the planets and moons?
 * How did those get here?
 
-The answer to all of these questions will make sense once we learn more about what goes on inside a star, from the moment they are born, to the time of their death. That’s right, stars actually die, so to speak, and the type of death, along with what’s left over, will be one of a variety of possibilities, depending entirely on the mass of the star. So let’s go through the lifetime of a few different kinds of stars, so that we are ready to understand the next 13 billion years of development in the universe.
+The answer to all of these questions will make sense once we learn more about what goes on inside a star, from the moment they are born, to the time of their death. That’s right, stars actually die, so to speak, and the type of death, along with what’s left over, will be one of a variety of possibilities, depending entirely on the mass of the star. 
 
-The life cycle of any star, from birth to death, and all the stages in between, will span millions or even billions of years. This is why stars don’t seem to change at all, because a human lifetime is a snippet of a fraction of a blink of an eye to these behemoths.
+So let’s go through the lifetime of a few different kinds of stars, so that we are ready to understand the next 13 billion years of development in the universe. The life cycle of any star, from birth to death, and all the stages in between, will span millions or even billions of years. This is why stars don’t seem to change at all, because a human lifetime is a snippet of a fraction of a blink of an eye to these behemoths.
 
-The path that will be followed by a particular star depends mainly on its mass, or how much
+![classification of stars according to their mass](assets/star-mass.png "classification of stars according to their mass")
 
-gas collected and collapsed to form the star, because that material will serve as the star’s fuel. As we may remember from physics and chemistry, when nuclei collide with enough energy so as to overcome the electromagnetic repulsion between them, the strong nuclear force takes over, and they fuse, with a small fraction of their mass converting into huge amounts of pure energy, as dictated by E equals mc squared.
+The path that will be followed by a particular star depends mainly on its mass, or how much gas collected and collapsed to form the star, because that material will serve as the star’s fuel. As we may remember from physics and chemistry, when nuclei collide with enough energy so as to overcome the electromagnetic repulsion between them, the strong nuclear force takes over, and they fuse, with a small fraction of their mass converting into huge amounts of pure energy, as dictated by **E equals MC squared.**
 
-Therefore, only by colliding nuclei together and fusing them in its ultra-hot core can
+![different paths according to their mass](assets/different-paths.png "Different paths according to their respective mass")
 
-a star release enough outward energy to counter the effects of gravity relentlessly crushing
+Therefore, only by colliding nuclei together and fusing them in its ultra-hot core can a star release enough outward energy to counter the effects of gravity relentlessly crushing inward. This means that the amount of matter that forms the star determines the amount of fuel, and through a variety of other factors, the lifetime and eventual fate of the star. Given that mass is the key factor here, let’s start with a low-mass star.
 
-inward.
+## Low  Mass or Average Mass Star
 
-This means that the amount of matter that forms the star determines the amount of fuel, and through a variety of other factors, the lifetime and eventual fate of the star. Given that mass is the key factor here, let’s start with a low-mass star.
+This would range from the smallest that stars can be, meaning the smallest amount of material that can sufficiently trigger nuclear fusion so as to qualify as a star, which is about thirteen Jupiter masses, to a star somewhere in the ballpark of our sun’s mass.
 
-This would range from the smallest that stars can be, meaning the smallest amount of material that can sufficiently trigger nuclear fusion so as to qualify as a star, which is about
+![low mass star](assets/low-mass-star.png "Loss mass or Average mass star")
 
-thirteen Jupiter masses, to a star somewhere in the ballpark of our sun’s mass.
-
-As we already know, any star will begin as a cloud of gas and dust at least a few light
-
-years across. In the earliest era of star formation, this material was almost exclusively hydrogen and helium, as this was what remained after the brief seventeen minutes of nucleosynthesis soon after the Big Bang. This matter collects due to gravity, pushing increasingly inward as it contracts, until things get so hot over a few million years that nuclear fusion eventually begins, establishing an equilibrium, and generating a yellow or red main sequence star that glows with all the energy released from the collisions happening inside.
+As we already know, any star will begin as a cloud of gas and dust at least a few light years across. In the earliest era of star formation, this material was almost exclusively hydrogen and helium, as this was what remained after the brief seventeen minutes of nucleosynthesis soon after the Big Bang. This matter collects due to gravity, pushing increasingly inward as it contracts, until things get so hot over a few million years that nuclear fusion eventually begins, establishing an equilibrium, and generating a yellow or red main sequence star that glows with all the energy released from the collisions happening inside.
 
 These fusion reactions begin with two protons fusing, followed by subsequent beta decay,
 
