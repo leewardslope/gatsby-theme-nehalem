@@ -1,6 +1,6 @@
 [build]
   base    = "demo"
-  command = "gatsby build"
+  command = "yarn build"
   publish = "public/"
 
 [[plugins]]
