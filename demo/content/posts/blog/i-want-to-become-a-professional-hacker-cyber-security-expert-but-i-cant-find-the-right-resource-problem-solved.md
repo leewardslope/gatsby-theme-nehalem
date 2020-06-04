@@ -7,9 +7,8 @@ tags:
 metaImage: assets/main-bg.webp
 featuredImage: ./assets/main-bg.webp
 excerpt: Hacking is an art, and it takes years of practice to master it. Having
-  no idea about hacking is okay, but being a newbie with computers in general is
-  not allowed. When I say beginner, I mean someone who has no experience with
-  programming and with hacking methodologies.
+  no idea about hacking is okay and when I say beginner, I mean someone who has
+  no experience with programming and with hacking methodologies.
 created: 2020-06-04T04:46:04.232Z
 updated: 2020-06-04T04:46:04.284Z
 ---
@@ -35,3 +34,109 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * How to make your own virus
 
 ### Fun Stuff
+
+* Zip Bomb
+* USB Stealer
+* Hide Data Behind Images
+* Cheat Engine
+
+### What is DDoSing?
+
+* Introduction to DDoS
+* Launching DDos Attack
+* Protecting Against DDos
+* Practicing fro DDos
+
+### Social Engineering
+
+* Introduction
+* The Art of Hunamm Hacking
+* Phishing
+
+### Linux
+
+* Installing Kali
+* Recommended Reading
+
+### How to Hack WiFi
+
+* Hacking WEP
+* Hacking WPA
+* More on Hacking WiFi
+* Hacking WEP 2
+* Recommended Books
+
+### Information Gathering
+
+* Introduction
+* Exploring NMap
+* Information Gathering with theHarvester
+
+### Metasploit
+
+* Introduction to Metasploit
+* Command Crash Course
+* Exploitation: Basics
+* Exploitation: Examples
+* Aurora
+* The Heartbleed bug
+* Hacking Webcams
+* Remote Keyloggers
+* Disabling Anti Virus
+
+### More Hacking Tools
+
+* Wordlists with Crunch
+* THC Hydra
+
+### Tor Browser
+
+* Why Tor?
+* How Tor Works
+* Using Tor
+* The Deep Web
+
+### Networking
+
+* MAC Addresses
+* What is MAC Addresses Spoofing?
+* Spoofing on Android
+* Spoofing on Windows
+* Spoofing on OS X
+
+### Privacy
+
+* The Zero Trust Principle
+* Government Surveillance
+* Choosing a Strong Password
+* Using Proxies
+* How to send secure mails using Proton Mail
+* Recommended Reading
+
+### General
+
+* Abbrevations
+* Common Terms
+* Common Tools
+* The Ultimate Hacking Cheet Sheet
+* Anonymous
+* Hacking Facebook
+* Rooting your Android Phone
+* Website Hacks
+* Understanding Viruses
+* Uprooting Viruses
+* On Hashes
+* All About Cookies
+* General Protection
+* The CIA Rule Book of Malware Creation
+* The best Documentaries for Hackers
+* The Top 5 Books for Hackers
+* Quantuim Computing and Digital Security
+* Going Pro
+
+### Others
+
+* Programming 1
+* Programming 2
+* RAT's
+* Limits of Legality
