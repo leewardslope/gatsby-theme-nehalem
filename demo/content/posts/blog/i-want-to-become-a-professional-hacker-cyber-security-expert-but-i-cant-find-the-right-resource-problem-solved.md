@@ -1,6 +1,6 @@
 ---
-title: I want to become a professional hacker (Cyber Security Expert), but I
-  can't find the right resource | Problem Solved
+title: I want to become a professional hacker but can't find the right resources
+  | Problem Solved
 path: /resources-to-become-a-hacker
 tags:
   - Cyber Security
