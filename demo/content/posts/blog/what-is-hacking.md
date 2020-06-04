@@ -18,7 +18,9 @@ A person who is able to discover a weakness in a system and manages to exploit i
 
 I’m going to make a broad claim here: The only thing you need to become a hacker is interest and dedication. But more than anything else, you need a **thirst for knowledge**. You should always be willing to learn something new, always open to new ideas. So come with me, follow along these series of tutorials and before long you’ll see for yourself that the claim has been justified.
 
-#### Before moving on, there’s a couple things that we need to address.
+- - -
+
+Before moving on, there’s a couple things that we need to address.
 
 First of all, **privacy**. Your data is everywhere, a part of you sitting on some servers around the world. **Privacy is your right to decide who can use that data and how.**The internet as we know it came into being decades ago. At the time, it wasn’t built with privacy in mind. But things have changed now. Not only do we need to protect ourselves against malicious agents but maybe, just maybe, a day may come when we must protect ourselves from those who are meant to be protecting us, our governments. Because of this, hacking no longer means just exploiting or patching up security holes in a system, it is now also**a means of protecting a basic human right**, the right to privacy.
 
@@ -26,8 +28,12 @@ Secondly, these days the only side of hacking that people hear about is the bad 
 
 > There is a whole other side to hacking that never quite gets to see the light of day.
 
+- - -
+
 For every major hack that makes the news, many more are prevented by security specialists. These people, these whitehat hackers, possess exactly the same skillset as the blackhats, but they choose to use them for good. No software can ever be completely secure and that makes cyber security a cat and mouse game. A race between whitehats and blackhats. A battle of angels and demons, the stakes of which have never been higher than they are today. The global cost of cyber crime is projected to reach [$2 trillion by 2019](http://www.forbes.com/sites/stevemorgan/2016/01/17/cyber-crime-costs-projected-to-reach-2-trillion-by-2019/#44daa5ac3bb0) and today it crossed that limit far ago.
 
 The question is- [Which side are you on?](https://blog.leewardslope.com/types-of-hackers)
 
 > It is always you who is responsible for the knowledge or wisdom you gained and also it is you who is responsible for your actions with your knowledge. Providing and sharing knowledge is primitive and the only way for any subject or culture to survive.
+
+- - -
