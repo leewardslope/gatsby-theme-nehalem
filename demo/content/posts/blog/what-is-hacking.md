@@ -13,9 +13,7 @@ updated: 2020-06-04T07:23:06.645Z
 A person who is able to discover a weakness in a system and manages to exploit it is called a **hacker** and this process is known as **Hacking**. Hacking is an art. It is the mastery of a system that gives you complete control over it. It is the act of modifying the inner workings of a system, in order to make it do something that it’s original creator never intended.
 
 > That’s the gist of it. But as with all things, the devil is in the details. This is what this website is for.
-
-### Broad Claim
-
+---
 I’m going to make a broad claim here: The only thing you need to become a hacker is interest and dedication. But more than anything else, you need a **thirst for knowledge**. You should always be willing to learn something new, always open to new ideas. So come with me, follow along these series of tutorials and before long you’ll see for yourself that the claim has been justified.
 
 - - -
