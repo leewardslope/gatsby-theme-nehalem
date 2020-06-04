@@ -1,7 +1,7 @@
 
 backend:
   name: git-gateway
-  repo: akhil-naidu/gatsby-theme-nehalem
+  repo: leewardslope/gatsby-theme-nehalem
 
 media_folder: demo/content/posts/blog/assets
 public_folder: assets
